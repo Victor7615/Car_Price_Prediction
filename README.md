@@ -55,5 +55,6 @@ This repository contains code for building a machine learning model to predict c
 - Victor Emuchay
 
 ## Acknowledgments
-- Mention any references, datasets, or libraries used.
+-[Youtube Video by The Onyibooke ](https://youtu.be/1NMTr2MikI0?si=vlJHCMbpYX85d5JY) -for loading excel into SQL and integrating into data into Jupyter Notebook
+- Library Used:
 
