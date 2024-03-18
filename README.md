@@ -52,7 +52,7 @@ This repository contains code for building a machine learning model to predict c
    - The model is also deployed to a web application using Streamlit. Instructions for running the web app are provided in the `app/README.md` file.
 
 ## Contributor
-- Your Name
+- Victor Emuchay
 
 ## Acknowledgments
 - Mention any references, datasets, or libraries used.
