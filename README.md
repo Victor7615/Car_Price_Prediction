@@ -1,7 +1,7 @@
 
 # Car Price Prediction
 
-This repository contains code for building a machine learning model to predict car prices based on various features. The dataset used for training and testing the model is fetched from a SQL Server database.
+This repository contains code for building a machine learning model to predict car prices based on various features. The dataset used for training and testing the model is fetched from a SQL Server database.Attached in this repo is an excel file containing the necessary data that can be uploaded to SQL server data base to execute the same code as indicated in the python notebook file.
 
 ## Contents
 
