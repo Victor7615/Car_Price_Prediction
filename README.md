@@ -56,5 +56,5 @@ This repository contains code for building a machine learning model to predict c
 
 ## Acknowledgments
 -[Youtube Video by The Onyibooke ](https://youtu.be/1NMTr2MikI0?si=vlJHCMbpYX85d5JY) -for loading excel into SQL and integrating into data into Jupyter Notebook
-- Library Used:
+- Library Used:[scikit-learn (sklearn)](https://scikit-learn.org/stable/) [Numpy](https://numpy.org/) [Matplotlib](https://matplotlib.org/) [Joblib](https://joblib.readthedocs.io/en/latest/) [Plotly](https://plotly.com/python/)
 
